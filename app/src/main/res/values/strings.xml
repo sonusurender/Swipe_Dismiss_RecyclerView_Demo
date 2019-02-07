@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Swipe To Dismiss CardView Demo</string>
+    <string name="swipe_dismiss_right">Swipe Dismiss Right</string>
+    <string name="swipe_dismiss_left">Swipe Dismiss Left</string>
+    <string name="swipe_to_dismiss">Swipe To Dismiss</string>
+    <string name="card_view_dismiss_success">CardView Dismissed Successfully.</string>
+</resources>
